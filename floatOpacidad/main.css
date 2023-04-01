@@ -1,0 +1,15 @@
+body{
+    background-color: #eee;
+}
+
+img{
+    float: right;
+}
+
+img:hover{ /*Este es un uso que se le puede dar a la opacidad cuando está imagen tiene el cursor sobre ella.*/
+    opacity: 0.8;
+}
+
+div p{
+    color: purple;
+}

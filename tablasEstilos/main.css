@@ -1,0 +1,28 @@
+body{
+    background-color: #eee;
+}
+
+table{
+    width: 100%;
+    background-color: white;
+    border-collapse: collapse; /*Colapsar los bordes a 0px o 1px*/
+}
+
+tr:nth-child(even){/*even primera fila si segunda no. odd viceversa*/
+    background-color: #f2f2f2;
+}
+
+table th{
+    background-color: #4caf50;
+    color: white;
+    text-align: left;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+td{
+    border: 1.5px solid #ddd;
+    padding: 6px;
+}

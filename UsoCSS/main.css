@@ -1,0 +1,12 @@
+body{
+    background-color: #efefef;
+     /*De igual forma se puede escribir el nombre del color*/
+}
+
+#parrafo{
+    color: #ff0000;
+}
+
+.etiqueta{
+    color: #00aa00;
+}

@@ -1,0 +1,39 @@
+body{
+    background-color: #eee;
+}
+
+.box{
+    margin-left: 25px;
+    background-color: white;
+    width: 500px;
+    height: 40px;
+    text-align: center;
+    padding: 25px;
+    border-radius: 9px;
+    margin-bottom: 25px;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.4);
+}
+
+.a{
+    border-left: solid 8px red;
+}
+
+.b{
+    border-left: solid 8px blue;
+}
+
+.c{
+    border-left: solid 8px green;
+}
+
+.a:hover{
+    transform: scale(1.075, 1.075);
+}
+
+.b:hover{
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.4);
+}
+
+.c:hover{
+    background-color: rgb(228, 252, 243);
+}

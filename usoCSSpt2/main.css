@@ -1,0 +1,18 @@
+body{
+    background-color: #eee;
+}
+
+.caja{
+    margin: 8px;
+    padding: 8px;
+    border-style: solid;
+    border-width: 6px;
+    border-color: rgb(76, 173, 185);
+    border-left: 6px solid rgb(182, 57, 155);
+    border-right: 6px solid rgb(182, 57, 155);
+    background-color: #aaf;
+    border-radius: 15px;
+    height: 100px;
+    width: 100px;
+    color: #090951;
+}
